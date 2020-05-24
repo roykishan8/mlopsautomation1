@@ -1,6 +1,6 @@
 data_file = open('/home/roykishan/task3/mlopsautomation1/data.txt','r')
 input_file = open('/home/roykishan/task3/mlopsautomation1/input.txt','r')
-accuracy_file = open('/home/roykishan/task3/mlopsautomation1/accuracy.txt','r')
+accuracy_file = open('/home/roykishan/task3/mlopsautomation1/accuracytesting.txt','r')
 
 data = data_file.read()
 data = data.split('\n')
